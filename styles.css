@@ -1,0 +1,41 @@
+.container-fluid{
+    width: 98%;
+}
+
+i.fa-instagram {
+    font-size: 40px;
+    color: #707070;
+}
+.display-6{
+    font-family: 'Oleo Script', cursive;
+    color: #707070;
+}
+i.fa-cog{
+    font-size: 25px;
+    color: #707070;
+}
+i.fa-camera{
+    font-size: 20px;
+}
+i.fa-map-marker-alt{
+    font-size: 20px;
+}
+.feedmode{
+    height: 50px;
+    width: 50px;
+}
+.card-text{
+    font-weight: bold;
+}
+i.fa-heart{
+    color: #707070;
+}
+i.fa-ellipsis-v{
+    color: #707070;
+}
+.card-body-fluid > img {
+    width: 100%;
+}
+.col-4-p-0-my-auto{
+    object-fit: cover;
+}
